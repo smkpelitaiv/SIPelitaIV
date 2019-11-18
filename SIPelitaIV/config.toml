@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "SI SMK PELITA IV"
+theme = "hugo-hello-programmer"
